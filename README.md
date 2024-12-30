@@ -1,14 +1,16 @@
 # 🦜️🔗 LangChain OpenTutorial
 
-Overview, Tutorial, and Examples of [LangChain](https://github.com/langchain-ai/langchain)
+This tutorial delves into [LangChain](https://github.com/langchain-ai/langchain), starting from an overview then providing practical examples.
 
-While a [Korean version of the tutorial](https://github.com/teddylee777/langchain-kr) already exists, this tutorial offers:
+[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
 
-- **Translation for Global Users**: Adapted to serve a worldwide audience.
-- **Expanded Content**: Covers the recently updated main features of LangChain and LangGraph, providing deeper insights and advanced topics.
-- **Practical Case Studies**: Enriched with more real-world applications and examples to enhance practical understanding and utilization of LangChain.
+We, the LangChain community based in Seoul, has a passionnante interest in developing the LangChain OpenTutorial for Korean [available here](https://github.com/teddylee777/langchain-kr). This new repository offers the following enhancements:
 
-This comprehensive resource aims to provide both new and existing users with up-to-date information and real-world applications to enhance their understanding and utilization of LangChain.
+- **Addressing global use cases** for internatial users,
+- **Diving deep into cutting-edge features** including the recent updates available at the latest version of LangChain and LangGraph release, and
+- **Demonstrating additional goodies** that showcase real-world uses and further applications.
+
+At this base repository, it serves as a home for both beginners and seasoned LangChain users. The tutorial whould provide a roadmap for learning LangChain, while also offering a valuable refresher for those already familiar with its functionalities.
 
 ## 📚 References
 - [langchain-ai](https://github.com/langchain-ai/langchain) 📖
@@ -16,7 +18,7 @@ This comprehensive resource aims to provide both new and existing users with up-
 - [LangChain Documentation](https://python.langchain.com/docs/introduction/)
 - [OpenAI API Reference](https://platform.openai.com/docs/introduction) 🤖
 
-## 🔗 Useful Links
+## 🔗 Community Links
 - **LangChain Korean Tutorial(wikidocs)**: [WikiDocs](https://wikidocs.net/book/14314)
 - **LangChain Korean Tutorial(github)**: [GitHub Repository](https://github.com/teddylee777/langchain-kr)
 - **YouTube Channel**: [Teddy Note](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q) 🎥
@@ -25,7 +27,7 @@ This comprehensive resource aims to provide both new and existing users with up-
 
 ## 🛠️ Contribution Process
 ### Step
-1. **Content Development & Pull Request(PR)**: Create at least **one** existing or new content file (`.ipynb`). Optionally, add examples related to open LLMs. Then, Submit a PR with the developed content.  
+1. **Submit a Pull request (PR)**: Develop at least **one** existing or new content file (`.ipynb`). Optionally, add examples related to open LLMs. Then, Submit a PR with the developed content.  
    *- Note: Self-Check Before PR Submission (Recommended)*
    - **License Compliance & Copyright Issues**: Verify that all dataset and content comply with licensing requirements. Confirm that there are no copyright infringements.
    - **Template Compliance**: Follow the provided [templates](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/tree/main/99-TEMPLATE)
